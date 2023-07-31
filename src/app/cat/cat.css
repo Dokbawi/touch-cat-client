@@ -1,0 +1,11 @@
+.cat {
+  position: absolute;
+}
+
+.cat > img {
+  position: absolute;
+}
+
+#cat-body-run {
+  display: none;
+}
